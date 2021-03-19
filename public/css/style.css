@@ -174,3 +174,14 @@ input.input__exampleLink {
     padding: 20px;
     box-sizing: border-box;
 }
+
+.swImage {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+
+.swImage__watermarked {
+    width: 100%;
+    margin: 10px;
+}
